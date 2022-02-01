@@ -3,7 +3,7 @@
 - 🌱 I’m currently reading:
   - Technical: Hands on Machine Learning with Scikit-Learn, Keras and Tensorflow by Aurélien Géron
   - Other: Show your work by Austin Kleon
-- 📫 You can reach me at parkerwill625 at gmail dot com
+- 📫 You can reach me at hello at willparker dot ai
 - You can read about my latest thoughts at [aesir321.github.io](https://aesir321.github.io)
 
 <!---
